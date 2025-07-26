@@ -1,0 +1,18 @@
+/*
+Theme Name: BestLearn
+Theme URI: https://github.com/BeGatifyDev
+Author: OLUWAFEMI OLUWATOBI BEST
+Author URI: https://github.com/BeGatifyDev
+Description: A minimal ecommerce WordPress theme built from scratch.
+Version: 1.0.1
+License: GNU General Public License v2 or later
+Text Domain: bestlearn
+*/
+
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #fff;
+    color: #333;
+}
